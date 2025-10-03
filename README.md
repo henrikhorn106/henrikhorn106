@@ -1,3 +1,6 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/cd786f02-592e-4230-ad92-4952baaaa3c4" />
+
+
 # Hi, I'm Henrik 👋
 
 I'm a marketing technologist bridging the gap between AI and business impact.
