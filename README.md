@@ -1,15 +1,26 @@
-Hi, I’m Henrik, a marketing technologist with a focus on AI.
+# Hi, I'm Henrik 👋
 
-With 5+ years in digital marketing and a background in web development, I design and implement systems for start ups and medium sized companies.
+I'm a marketing technologist bridging the gap between AI and business impact.
 
-Currently training as an AI Engineer, I specialize in applying machine learning to real-world business challenges:
-- Content automation
-- Predictive analytics
-- Smart customer journeys
+## What I Do
 
-What makes me different? I don’t just advise, I CREATE. 🔨
+With 5+ years in digital marketing and a web development background, I build practical AI solutions for startups and medium-sized companies. Currently training as an AI Engineer, I focus on making machine learning work for real business challenges:
 
-Let’s connect if you’re building...
-- a smarter funnel
-- an automated marketing process
-- or just want to get more out of your data
+- **Content Automation** – Scaling content production without sacrificing quality
+- **Predictive Analytics** – Turning data into actionable insights
+- **Smart Customer Journeys** – Personalization that actually converts
+
+## My Approach
+
+I don't just advise—I build. You'll find working code, real implementations, and systems that solve actual problems in my repositories.
+
+## Let's Connect
+
+I'm always interested in collaborating on projects involving:
+
+- Marketing automation with AI
+- Data-driven customer acquisition
+- Smart funnel optimization
+- ML-powered analytics pipelines
+
+📫 Feel free to reach out if you're working on something interesting or want to chat about the intersection of marketing and machine learning.
