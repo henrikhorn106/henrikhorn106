@@ -12,13 +12,18 @@ My edge? 5+ years in digital marketing before becoming an engineer. I know what 
 
 ## What I Do
 • AI content systems that maintain brand voice at scale
+
 • Predictive models that optimize customer journeys in real-time
+
 • n8n/Make workflows connecting CRMs, marketing tools & APIs
+
 • Custom integrations when off-the-shelf won't cut it
+
 
 ## My Approach
 
 I don't just advise—I build. You'll find working code, real implementations, and systems that solve actual problems in my repositories.
+
 
 ## Let's Connect
 
