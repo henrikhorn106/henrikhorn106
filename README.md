@@ -29,3 +29,4 @@ I don't just advise—I build. You'll find working code, real implementations, a
 ## Let's Connect
 
 I'm always interested in collaborating on projects.
+https://cal.com/henrik-horn-create/15min
